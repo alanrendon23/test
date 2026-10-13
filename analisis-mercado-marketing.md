@@ -1,4 +1,4 @@
-# Analisis de vacantes de marketing en Indeed
+# Analisis de vacantes de marketing
 
 ## Resumen ejecutivo
 
