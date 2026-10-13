@@ -116,5 +116,3 @@ Si el objetivo es buscar empleabilidad y mejor salario, las habilidades mas vali
 ## Conclusion
 
 La lectura del archivo es clara: el mercado esta premiando perfiles hibridos de marketing + negocio + datos. Si quieres apuntar a los sueldos mas altos, la mejor apuesta no es especializarte solo en contenido o diseno, sino combinar performance, analitica, CRM y coordinacion de proyectos con foco comercial.
-
-Si quieres, el siguiente paso puede ser convertir este analisis en una tabla de ruta profesional con las habilidades prioritarias para subir de sueldo mas rapido.
