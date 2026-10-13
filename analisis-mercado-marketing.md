@@ -1,7 +1,5 @@
 # Analisis de vacantes de marketing en Indeed
 
-Fuente: archivo jobs.md con vacantes de las primeras paginas de Indeed.
-
 ## Resumen ejecutivo
 
 Lo mas solicitado no es "hacer contenido" de forma aislada, sino perfiles que conectan marketing con negocio: performance, crecimiento, generacion de demanda, analitica, CRM, e-commerce y coordinacion de proyectos. En dinero, los mejores sueldos aparecen cuando la vacante tiene responsabilidad sobre resultados medibles, presupuesto, conversion o ingresos.
